@@ -14,9 +14,6 @@ To get started with this project, follow these steps:
 ```bash
 git clone https://github.com/qazi-humayoon/Salary-Prediction.git
 ```
-## License
-
-This project is released under the **MIT License**. Feel free to use, modify, and distribute it as per the terms of the license. Check out the [LICENSE](LICENSE) file for more information.
 
 ## Get Involved
 
